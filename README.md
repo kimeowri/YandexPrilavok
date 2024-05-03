@@ -277,10 +277,9 @@ HTTP/1.1 200 OK
 
 [Баг-репорты](https://kiropurr.youtrack.cloud/issues?q=tag:%20%7BAPI%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D1%80%D0%B8%D0%BB%D0%B0%D0%B2%D0%BA%D0%B0%7D)
 
-<details>
-
 ## Отчёт
-   
+
+<details>   
 <summary> Отчёт </summary>
 
 **Отчёт о тестировании**
