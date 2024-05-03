@@ -40,7 +40,7 @@
 <details>
 <summary> Требования к бэкенду приложения Яндекс.Прилавка </summary>
 
-<img width="1433" alt="image" src="https://github.com/qkitech/YandexPrilavok/assets/157276532/28ab2b07-65ab-4450-9698-02952c050848">
+<img width="1415" alt="image" src="https://github.com/qkitech/YandexPrilavok/assets/157276532/2ec8fc41-c260-4846-919c-f901728d403b">
 
 ***
 
